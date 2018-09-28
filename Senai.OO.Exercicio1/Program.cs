@@ -6,7 +6,7 @@ namespace Senai.OO.Exercicio1 {
         static void Main (string[] args) 
         {   
             #region IMC Pessoa 1
-            // criação do objeto pessoa
+            // criação do objeto pessoa, também chamado instanciar o objeto, que é alocar o objeto na memória (heap)
             pessoa pessoa1 = new pessoa();
             
             Console.WriteLine("Informe o nome da pessoa 1");
