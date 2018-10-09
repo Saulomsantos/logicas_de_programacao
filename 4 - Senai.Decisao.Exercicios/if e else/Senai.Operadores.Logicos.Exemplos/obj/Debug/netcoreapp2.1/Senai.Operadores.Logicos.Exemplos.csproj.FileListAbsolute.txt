@@ -1,0 +1,11 @@
+C:\Users\39893838843\Senai.Operadores.Logicos.Exemplos\bin\Debug\netcoreapp2.1\Senai.Operadores.Logicos.Exemplos.deps.json
+C:\Users\39893838843\Senai.Operadores.Logicos.Exemplos\bin\Debug\netcoreapp2.1\Senai.Operadores.Logicos.Exemplos.runtimeconfig.json
+C:\Users\39893838843\Senai.Operadores.Logicos.Exemplos\bin\Debug\netcoreapp2.1\Senai.Operadores.Logicos.Exemplos.runtimeconfig.dev.json
+C:\Users\39893838843\Senai.Operadores.Logicos.Exemplos\bin\Debug\netcoreapp2.1\Senai.Operadores.Logicos.Exemplos.dll
+C:\Users\39893838843\Senai.Operadores.Logicos.Exemplos\bin\Debug\netcoreapp2.1\Senai.Operadores.Logicos.Exemplos.pdb
+C:\Users\39893838843\Senai.Operadores.Logicos.Exemplos\obj\Debug\netcoreapp2.1\Senai.Operadores.Logicos.Exemplos.csprojAssemblyReference.cache
+C:\Users\39893838843\Senai.Operadores.Logicos.Exemplos\obj\Debug\netcoreapp2.1\Senai.Operadores.Logicos.Exemplos.csproj.CoreCompileInputs.cache
+C:\Users\39893838843\Senai.Operadores.Logicos.Exemplos\obj\Debug\netcoreapp2.1\Senai.Operadores.Logicos.Exemplos.AssemblyInfoInputs.cache
+C:\Users\39893838843\Senai.Operadores.Logicos.Exemplos\obj\Debug\netcoreapp2.1\Senai.Operadores.Logicos.Exemplos.AssemblyInfo.cs
+C:\Users\39893838843\Senai.Operadores.Logicos.Exemplos\obj\Debug\netcoreapp2.1\Senai.Operadores.Logicos.Exemplos.dll
+C:\Users\39893838843\Senai.Operadores.Logicos.Exemplos\obj\Debug\netcoreapp2.1\Senai.Operadores.Logicos.Exemplos.pdb

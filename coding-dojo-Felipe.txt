@@ -1,0 +1,40 @@
+using System;
+using Senai.Aulas.OO.Exercicios.CodingDojo.Classes;
+
+namespace Senai.Aulas.OO.Exercicios.CodingDojo
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //Recebendo os dados do produto
+            Produto p = new Produto();
+            Console.WriteLine("Insira o nome");
+            p.Nome = Console.ReadLine();
+
+            //Preco real
+            Console.WriteLine("Insira o preco: ");
+            p.Preco = double.Parse(Console.ReadLine());
+
+            //Quantidade de prestacoes
+            Console.WriteLine("Insira as prestacoes: ");
+            p.QuantidadePrestacao = int.Parse(Console.ReadLine());
+
+            //Calculo Preco da prestacao
+            double vp = p.Preco / p.QuantidadePrestacao;
+            double acresc = p.Preco * (0.05 * (p.QuantidadePrestacao - 1));
+            double totalPrestacao = vp + acresc;
+            double totalGeral = totalPrestacao * p.QuantidadePrestacao;
+
+            //Relatorio
+            Console.WriteLine($"Nome: {p.Nome}");
+            Console.WriteLine($"Preco real: {p.Preco}");
+            Console.WriteLine($"Parcelas: {p.QuantidadePrestacao}");
+            Console.WriteLine($"R$ Parcecla (SA): {vp}");
+            Console.WriteLine($"R$ Acrescimo: {acresc}");
+            Console.WriteLine($"R$ Parcela (CA): {totalPrestacao}");
+            System.Console.WriteLine("");
+            Console.WriteLine($"R$ TOTAL: {totalGeral}");
+        }
+    }
+}

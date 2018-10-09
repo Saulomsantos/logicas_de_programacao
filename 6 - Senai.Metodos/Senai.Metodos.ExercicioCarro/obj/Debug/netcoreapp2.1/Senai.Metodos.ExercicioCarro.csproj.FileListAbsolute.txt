@@ -1,0 +1,11 @@
+D:\SENAI Info\Lógica de programação\C#\6 - Senai.Metodos\Senai.Metodos.ExercicioCarro\bin\Debug\netcoreapp2.1\Senai.Metodos.ExercicioCarro.deps.json
+D:\SENAI Info\Lógica de programação\C#\6 - Senai.Metodos\Senai.Metodos.ExercicioCarro\bin\Debug\netcoreapp2.1\Senai.Metodos.ExercicioCarro.runtimeconfig.json
+D:\SENAI Info\Lógica de programação\C#\6 - Senai.Metodos\Senai.Metodos.ExercicioCarro\bin\Debug\netcoreapp2.1\Senai.Metodos.ExercicioCarro.runtimeconfig.dev.json
+D:\SENAI Info\Lógica de programação\C#\6 - Senai.Metodos\Senai.Metodos.ExercicioCarro\bin\Debug\netcoreapp2.1\Senai.Metodos.ExercicioCarro.dll
+D:\SENAI Info\Lógica de programação\C#\6 - Senai.Metodos\Senai.Metodos.ExercicioCarro\bin\Debug\netcoreapp2.1\Senai.Metodos.ExercicioCarro.pdb
+D:\SENAI Info\Lógica de programação\C#\6 - Senai.Metodos\Senai.Metodos.ExercicioCarro\obj\Debug\netcoreapp2.1\Senai.Metodos.ExercicioCarro.csprojAssemblyReference.cache
+D:\SENAI Info\Lógica de programação\C#\6 - Senai.Metodos\Senai.Metodos.ExercicioCarro\obj\Debug\netcoreapp2.1\Senai.Metodos.ExercicioCarro.csproj.CoreCompileInputs.cache
+D:\SENAI Info\Lógica de programação\C#\6 - Senai.Metodos\Senai.Metodos.ExercicioCarro\obj\Debug\netcoreapp2.1\Senai.Metodos.ExercicioCarro.AssemblyInfoInputs.cache
+D:\SENAI Info\Lógica de programação\C#\6 - Senai.Metodos\Senai.Metodos.ExercicioCarro\obj\Debug\netcoreapp2.1\Senai.Metodos.ExercicioCarro.AssemblyInfo.cs
+D:\SENAI Info\Lógica de programação\C#\6 - Senai.Metodos\Senai.Metodos.ExercicioCarro\obj\Debug\netcoreapp2.1\Senai.Metodos.ExercicioCarro.dll
+D:\SENAI Info\Lógica de programação\C#\6 - Senai.Metodos\Senai.Metodos.ExercicioCarro\obj\Debug\netcoreapp2.1\Senai.Metodos.ExercicioCarro.pdb

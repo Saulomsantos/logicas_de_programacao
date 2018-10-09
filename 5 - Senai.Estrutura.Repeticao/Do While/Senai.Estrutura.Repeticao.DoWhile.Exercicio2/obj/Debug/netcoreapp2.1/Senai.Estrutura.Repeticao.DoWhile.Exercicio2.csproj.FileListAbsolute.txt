@@ -1,0 +1,11 @@
+D:\SENAI Info\Lógica de programação\C#\5 - Senai.Estrutura.Repeticao\Do While\Senai.Estrutura.Repeticao.DoWhile.Exercicio2\bin\Debug\netcoreapp2.1\Senai.Estrutura.Repeticao.DoWhile.Exercicio2.deps.json
+D:\SENAI Info\Lógica de programação\C#\5 - Senai.Estrutura.Repeticao\Do While\Senai.Estrutura.Repeticao.DoWhile.Exercicio2\bin\Debug\netcoreapp2.1\Senai.Estrutura.Repeticao.DoWhile.Exercicio2.runtimeconfig.json
+D:\SENAI Info\Lógica de programação\C#\5 - Senai.Estrutura.Repeticao\Do While\Senai.Estrutura.Repeticao.DoWhile.Exercicio2\bin\Debug\netcoreapp2.1\Senai.Estrutura.Repeticao.DoWhile.Exercicio2.runtimeconfig.dev.json
+D:\SENAI Info\Lógica de programação\C#\5 - Senai.Estrutura.Repeticao\Do While\Senai.Estrutura.Repeticao.DoWhile.Exercicio2\bin\Debug\netcoreapp2.1\Senai.Estrutura.Repeticao.DoWhile.Exercicio2.dll
+D:\SENAI Info\Lógica de programação\C#\5 - Senai.Estrutura.Repeticao\Do While\Senai.Estrutura.Repeticao.DoWhile.Exercicio2\bin\Debug\netcoreapp2.1\Senai.Estrutura.Repeticao.DoWhile.Exercicio2.pdb
+D:\SENAI Info\Lógica de programação\C#\5 - Senai.Estrutura.Repeticao\Do While\Senai.Estrutura.Repeticao.DoWhile.Exercicio2\obj\Debug\netcoreapp2.1\Senai.Estrutura.Repeticao.DoWhile.Exercicio2.csprojAssemblyReference.cache
+D:\SENAI Info\Lógica de programação\C#\5 - Senai.Estrutura.Repeticao\Do While\Senai.Estrutura.Repeticao.DoWhile.Exercicio2\obj\Debug\netcoreapp2.1\Senai.Estrutura.Repeticao.DoWhile.Exercicio2.csproj.CoreCompileInputs.cache
+D:\SENAI Info\Lógica de programação\C#\5 - Senai.Estrutura.Repeticao\Do While\Senai.Estrutura.Repeticao.DoWhile.Exercicio2\obj\Debug\netcoreapp2.1\Senai.Estrutura.Repeticao.DoWhile.Exercicio2.AssemblyInfoInputs.cache
+D:\SENAI Info\Lógica de programação\C#\5 - Senai.Estrutura.Repeticao\Do While\Senai.Estrutura.Repeticao.DoWhile.Exercicio2\obj\Debug\netcoreapp2.1\Senai.Estrutura.Repeticao.DoWhile.Exercicio2.AssemblyInfo.cs
+D:\SENAI Info\Lógica de programação\C#\5 - Senai.Estrutura.Repeticao\Do While\Senai.Estrutura.Repeticao.DoWhile.Exercicio2\obj\Debug\netcoreapp2.1\Senai.Estrutura.Repeticao.DoWhile.Exercicio2.dll
+D:\SENAI Info\Lógica de programação\C#\5 - Senai.Estrutura.Repeticao\Do While\Senai.Estrutura.Repeticao.DoWhile.Exercicio2\obj\Debug\netcoreapp2.1\Senai.Estrutura.Repeticao.DoWhile.Exercicio2.pdb

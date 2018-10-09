@@ -1,0 +1,22 @@
+D:\SENAI Info\Lógica de programação\C#\Senai.Decisao.Exercicios\Senai.Decisao.Exercicios.Exercicio2\bin\Debug\netcoreapp2.1\Senai.Decisao.Exercicios.Exercicio2.deps.json
+D:\SENAI Info\Lógica de programação\C#\Senai.Decisao.Exercicios\Senai.Decisao.Exercicios.Exercicio2\bin\Debug\netcoreapp2.1\Senai.Decisao.Exercicios.Exercicio2.runtimeconfig.json
+D:\SENAI Info\Lógica de programação\C#\Senai.Decisao.Exercicios\Senai.Decisao.Exercicios.Exercicio2\bin\Debug\netcoreapp2.1\Senai.Decisao.Exercicios.Exercicio2.runtimeconfig.dev.json
+D:\SENAI Info\Lógica de programação\C#\Senai.Decisao.Exercicios\Senai.Decisao.Exercicios.Exercicio2\bin\Debug\netcoreapp2.1\Senai.Decisao.Exercicios.Exercicio2.dll
+D:\SENAI Info\Lógica de programação\C#\Senai.Decisao.Exercicios\Senai.Decisao.Exercicios.Exercicio2\bin\Debug\netcoreapp2.1\Senai.Decisao.Exercicios.Exercicio2.pdb
+D:\SENAI Info\Lógica de programação\C#\Senai.Decisao.Exercicios\Senai.Decisao.Exercicios.Exercicio2\obj\Debug\netcoreapp2.1\Senai.Decisao.Exercicios.Exercicio2.csprojAssemblyReference.cache
+D:\SENAI Info\Lógica de programação\C#\Senai.Decisao.Exercicios\Senai.Decisao.Exercicios.Exercicio2\obj\Debug\netcoreapp2.1\Senai.Decisao.Exercicios.Exercicio2.csproj.CoreCompileInputs.cache
+D:\SENAI Info\Lógica de programação\C#\Senai.Decisao.Exercicios\Senai.Decisao.Exercicios.Exercicio2\obj\Debug\netcoreapp2.1\Senai.Decisao.Exercicios.Exercicio2.AssemblyInfoInputs.cache
+D:\SENAI Info\Lógica de programação\C#\Senai.Decisao.Exercicios\Senai.Decisao.Exercicios.Exercicio2\obj\Debug\netcoreapp2.1\Senai.Decisao.Exercicios.Exercicio2.AssemblyInfo.cs
+D:\SENAI Info\Lógica de programação\C#\Senai.Decisao.Exercicios\Senai.Decisao.Exercicios.Exercicio2\obj\Debug\netcoreapp2.1\Senai.Decisao.Exercicios.Exercicio2.dll
+D:\SENAI Info\Lógica de programação\C#\Senai.Decisao.Exercicios\Senai.Decisao.Exercicios.Exercicio2\obj\Debug\netcoreapp2.1\Senai.Decisao.Exercicios.Exercicio2.pdb
+D:\SENAI Info\Lógica de programação\C#\Senai.Decisao.Exercicios\switch case\Senai.Decisao.Exercicios.Exercicio2\bin\Debug\netcoreapp2.1\Senai.Decisao.Exercicios.Exercicio2.deps.json
+D:\SENAI Info\Lógica de programação\C#\Senai.Decisao.Exercicios\switch case\Senai.Decisao.Exercicios.Exercicio2\bin\Debug\netcoreapp2.1\Senai.Decisao.Exercicios.Exercicio2.runtimeconfig.json
+D:\SENAI Info\Lógica de programação\C#\Senai.Decisao.Exercicios\switch case\Senai.Decisao.Exercicios.Exercicio2\bin\Debug\netcoreapp2.1\Senai.Decisao.Exercicios.Exercicio2.runtimeconfig.dev.json
+D:\SENAI Info\Lógica de programação\C#\Senai.Decisao.Exercicios\switch case\Senai.Decisao.Exercicios.Exercicio2\bin\Debug\netcoreapp2.1\Senai.Decisao.Exercicios.Exercicio2.dll
+D:\SENAI Info\Lógica de programação\C#\Senai.Decisao.Exercicios\switch case\Senai.Decisao.Exercicios.Exercicio2\bin\Debug\netcoreapp2.1\Senai.Decisao.Exercicios.Exercicio2.pdb
+D:\SENAI Info\Lógica de programação\C#\Senai.Decisao.Exercicios\switch case\Senai.Decisao.Exercicios.Exercicio2\obj\Debug\netcoreapp2.1\Senai.Decisao.Exercicios.Exercicio2.csprojAssemblyReference.cache
+D:\SENAI Info\Lógica de programação\C#\Senai.Decisao.Exercicios\switch case\Senai.Decisao.Exercicios.Exercicio2\obj\Debug\netcoreapp2.1\Senai.Decisao.Exercicios.Exercicio2.csproj.CoreCompileInputs.cache
+D:\SENAI Info\Lógica de programação\C#\Senai.Decisao.Exercicios\switch case\Senai.Decisao.Exercicios.Exercicio2\obj\Debug\netcoreapp2.1\Senai.Decisao.Exercicios.Exercicio2.AssemblyInfoInputs.cache
+D:\SENAI Info\Lógica de programação\C#\Senai.Decisao.Exercicios\switch case\Senai.Decisao.Exercicios.Exercicio2\obj\Debug\netcoreapp2.1\Senai.Decisao.Exercicios.Exercicio2.AssemblyInfo.cs
+D:\SENAI Info\Lógica de programação\C#\Senai.Decisao.Exercicios\switch case\Senai.Decisao.Exercicios.Exercicio2\obj\Debug\netcoreapp2.1\Senai.Decisao.Exercicios.Exercicio2.dll
+D:\SENAI Info\Lógica de programação\C#\Senai.Decisao.Exercicios\switch case\Senai.Decisao.Exercicios.Exercicio2\obj\Debug\netcoreapp2.1\Senai.Decisao.Exercicios.Exercicio2.pdb
