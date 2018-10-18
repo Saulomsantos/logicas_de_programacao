@@ -1,0 +1,11 @@
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.OO.Array.Exercicio3\obj\Debug\netcoreapp2.1\Senai.OO.Array.Exercicio3.csprojAssemblyReference.cache
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.OO.Array.Exercicio3\obj\Debug\netcoreapp2.1\Senai.OO.Array.Exercicio3.csproj.CoreCompileInputs.cache
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.OO.Array.Exercicio3\obj\Debug\netcoreapp2.1\Senai.OO.Array.Exercicio3.AssemblyInfoInputs.cache
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.OO.Array.Exercicio3\obj\Debug\netcoreapp2.1\Senai.OO.Array.Exercicio3.AssemblyInfo.cs
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.OO.Array.Exercicio3\bin\Debug\netcoreapp2.1\Senai.OO.Array.Exercicio3.deps.json
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.OO.Array.Exercicio3\bin\Debug\netcoreapp2.1\Senai.OO.Array.Exercicio3.runtimeconfig.json
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.OO.Array.Exercicio3\bin\Debug\netcoreapp2.1\Senai.OO.Array.Exercicio3.runtimeconfig.dev.json
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.OO.Array.Exercicio3\bin\Debug\netcoreapp2.1\Senai.OO.Array.Exercicio3.dll
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.OO.Array.Exercicio3\bin\Debug\netcoreapp2.1\Senai.OO.Array.Exercicio3.pdb
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.OO.Array.Exercicio3\obj\Debug\netcoreapp2.1\Senai.OO.Array.Exercicio3.dll
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.OO.Array.Exercicio3\obj\Debug\netcoreapp2.1\Senai.OO.Array.Exercicio3.pdb
