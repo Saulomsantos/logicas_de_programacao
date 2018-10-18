@@ -1,0 +1,11 @@
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.Vetores.Exemplo2\bin\Debug\netcoreapp2.1\Senai.Vetores.Exemplo2.deps.json
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.Vetores.Exemplo2\bin\Debug\netcoreapp2.1\Senai.Vetores.Exemplo2.runtimeconfig.json
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.Vetores.Exemplo2\bin\Debug\netcoreapp2.1\Senai.Vetores.Exemplo2.runtimeconfig.dev.json
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.Vetores.Exemplo2\bin\Debug\netcoreapp2.1\Senai.Vetores.Exemplo2.dll
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.Vetores.Exemplo2\bin\Debug\netcoreapp2.1\Senai.Vetores.Exemplo2.pdb
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.Vetores.Exemplo2\obj\Debug\netcoreapp2.1\Senai.Vetores.Exemplo2.csprojAssemblyReference.cache
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.Vetores.Exemplo2\obj\Debug\netcoreapp2.1\Senai.Vetores.Exemplo2.csproj.CoreCompileInputs.cache
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.Vetores.Exemplo2\obj\Debug\netcoreapp2.1\Senai.Vetores.Exemplo2.AssemblyInfoInputs.cache
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.Vetores.Exemplo2\obj\Debug\netcoreapp2.1\Senai.Vetores.Exemplo2.AssemblyInfo.cs
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.Vetores.Exemplo2\obj\Debug\netcoreapp2.1\Senai.Vetores.Exemplo2.dll
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.Vetores.Exemplo2\obj\Debug\netcoreapp2.1\Senai.Vetores.Exemplo2.pdb

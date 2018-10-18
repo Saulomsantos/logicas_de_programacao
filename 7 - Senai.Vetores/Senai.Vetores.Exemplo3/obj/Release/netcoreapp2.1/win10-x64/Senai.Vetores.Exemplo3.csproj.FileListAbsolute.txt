@@ -1,0 +1,14 @@
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.Vetores.Exemplo3\bin\Release\netcoreapp2.1\win10-x64\hostpolicy.dll
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.Vetores.Exemplo3\bin\Release\netcoreapp2.1\win10-x64\hostfxr.dll
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.Vetores.Exemplo3\bin\Release\netcoreapp2.1\win10-x64\Senai.Vetores.Exemplo3.exe
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.Vetores.Exemplo3\bin\Release\netcoreapp2.1\win10-x64\Senai.Vetores.Exemplo3.deps.json
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.Vetores.Exemplo3\bin\Release\netcoreapp2.1\win10-x64\Senai.Vetores.Exemplo3.runtimeconfig.json
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.Vetores.Exemplo3\bin\Release\netcoreapp2.1\win10-x64\Senai.Vetores.Exemplo3.runtimeconfig.dev.json
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.Vetores.Exemplo3\bin\Release\netcoreapp2.1\win10-x64\Senai.Vetores.Exemplo3.dll
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.Vetores.Exemplo3\bin\Release\netcoreapp2.1\win10-x64\Senai.Vetores.Exemplo3.pdb
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.Vetores.Exemplo3\obj\Release\netcoreapp2.1\win10-x64\Senai.Vetores.Exemplo3.csprojAssemblyReference.cache
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.Vetores.Exemplo3\obj\Release\netcoreapp2.1\win10-x64\Senai.Vetores.Exemplo3.csproj.CoreCompileInputs.cache
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.Vetores.Exemplo3\obj\Release\netcoreapp2.1\win10-x64\Senai.Vetores.Exemplo3.AssemblyInfoInputs.cache
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.Vetores.Exemplo3\obj\Release\netcoreapp2.1\win10-x64\Senai.Vetores.Exemplo3.AssemblyInfo.cs
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.Vetores.Exemplo3\obj\Release\netcoreapp2.1\win10-x64\Senai.Vetores.Exemplo3.dll
+D:\SENAI Info\Lógica de programação\C#\7 - Senai.Vetores\Senai.Vetores.Exemplo3\obj\Release\netcoreapp2.1\win10-x64\Senai.Vetores.Exemplo3.pdb
